@@ -4,6 +4,8 @@
 
 ### Welcome to my Telegram Group: [@ctcgfw\_openwrt\_discuss](https://t.me/ctcgfw\_openwrt\_discuss).
 - - -
+# Sorry it doesn't usable current.
+- - -
 # Instructions for use
 ![Image text](https://raw.githubusercontent.com/project-openwrt/luci-app-233ddns/master/view.png)
 ### Dependencies: `wget`.
